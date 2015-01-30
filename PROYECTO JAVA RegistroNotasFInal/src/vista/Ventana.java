@@ -13,7 +13,7 @@ import modelo.Alumno;
 
 /**
  *
- * @authores
+ * @author
  ** Omar Rosadio
  ** Jefferson Rivera
  */
