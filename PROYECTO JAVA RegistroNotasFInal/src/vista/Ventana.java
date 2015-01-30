@@ -13,7 +13,9 @@ import modelo.Alumno;
 
 /**
  *
- * @author Gianmarco
+ * @authores
+ ** Omar Rosadio
+ ** Jefferson Rivera
  */
 public class Ventana extends javax.swing.JFrame {
 
